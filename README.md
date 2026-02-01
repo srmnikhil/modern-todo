@@ -1,4 +1,4 @@
-# DoIt – Minimal Task Manager 📝
+# DoIt – Modern Todo
 
 DoIt is a clean and simple task management web app inspired by Microsoft To Do.  
 It helps users organize daily tasks, mark important items, and stay productive with a distraction-free interface.
