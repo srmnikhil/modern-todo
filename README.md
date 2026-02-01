@@ -75,10 +75,12 @@ http://localhost:3000
 ```bash
 src/
  ├─ components/
- ├─ pages/
- ├─ assets/
+ ├─ redux/
  ├─ App.js
- └─ index.js
+ ├─ App.test.js
+ ├─ index.css
+ ├─ index.js
+ └─ logo.svg
 ```
 ---
 🎯 Use Cases
