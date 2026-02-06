@@ -86,6 +86,7 @@ src/
 🎯 Use Cases
 
 - Personal daily task tracking
+- You can also restore the data after tab close
 - Simple productivity tool
 - Beginner-friendly React project
 - Portfolio project
