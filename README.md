@@ -28,13 +28,6 @@ It helps users organize daily tasks, mark important items, and stay productive w
 
 ---
 
-## 🖥️ Screenshots
-
-> Home Dashboard  
-> Task List View  
-> Add Task Section  
-
----
 
 ## 🛠️ Tech Stack
 
